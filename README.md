@@ -11,7 +11,7 @@
 
 ### :email: Связаться со мной
 
-[![Telegram badge](https://img.shields.io/badge/Telegram-%23f1f9fe?style=for-the-badge&logo=telegram)](t.me/EsLichtne) [![Gmail badge](https://img.shields.io/badge/Gmail-%23fef3f2?style=for-the-badge&logo=gmail)](mailto:easyghoul@gmail.com)
+[![Telegram badge](https://img.shields.io/badge/Telegram-%23f1f9fe?style=for-the-badge&logo=telegram)](https://t.me/EsLichtne) [![Gmail badge](https://img.shields.io/badge/Gmail-%23fef3f2?style=for-the-badge&logo=gmail)](mailto:easyghoul@gmail.com)
 
 ### :abacus: Технологии
 
