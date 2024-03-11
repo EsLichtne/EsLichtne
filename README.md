@@ -151,35 +151,6 @@
   </tr>
 </table>
 
-### :books: Оконченные курсы
-
-<table>
-  <tr>
-    <th>Название курса</th>
-    <th>Дата прохождения</th>
-  </tr>
-  <tr>
-    <td>HTML-Academy — HTML и CSS. Профессиональная вёрстка сайтов</td>
-    <td>05.23 — 07.23</td>
-  </tr>
-  <tr>
-    <td>HTML-Academy — HTML и CSS. Адаптивная вёрстка и автоматизация</td>
-    <td>07.23 — 09.23</td>
-  </tr>
-  <tr>
-    <td>HTML-Academy — JavaScript. Профессиональная разработка веб-интерфейсов</td>
-    <td>10.23 — 12.23</td>
-  </tr>
-  <tr>
-    <td>HTML-Academy — Подготовка вёрстки для cистем управления контентом (CMS)</td>
-    <td>12.23 — 01.23</td>
-  </tr>
-  <tr>
-    <td>HTML-Academy — Вёрстка React-компонентов</td>
-    <td>01.23 — 02.23</td>
-  </tr>
-</table>
-
 ### :octocat: Статистика GitHub
 
 <table>
