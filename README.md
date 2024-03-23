@@ -151,6 +151,10 @@
   </tr>
 </table>
 
+### :triangular_flag_on_post: Codewars
+
+![image](https://www.codewars.com/users/EsLichtne/badges/large)
+
 ### :octocat: Статистика GitHub
 
 <table>
