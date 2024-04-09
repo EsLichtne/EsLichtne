@@ -153,7 +153,7 @@
 
 ### :triangular_flag_on_post: Codewars
 
-![image](https://www.codewars.com/users/EsLichtne/badges/large)
+![image](https://www.codewars.com/users/EsLichtne/badges/large?theme=light)
 
 ### :octocat: Статистика GitHub
 
